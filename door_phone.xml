@@ -4,6 +4,6 @@
   
   <default remote="sdk" sync-j="4"/>
   
-  <project name="pandysong/repo_test_sdk_project_a.git" path="a" revision="cee3730e491d3f81f865660deb39205e6622723f" upstream="master"/>
-  <project name="pandysong/repo_test_sdk_project_b.git" path="b" revision="132a25ac3e64a25dbfb66ee7bb472fb97fff2a02" upstream="master"/>
+  <project name="pandysong/repo_test_sdk_project_a.git" path="repo_test_sdk_project_a" revision="cee3730e491d3f81f865660deb39205e6622723f" upstream="master"/>
+  <project name="pandysong/repo_test_sdk_project_b.git" path="repo_test_sdk_project_b" revision="132a25ac3e64a25dbfb66ee7bb472fb97fff2a02" upstream="master"/>
 </manifest>
